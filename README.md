@@ -1,3 +1,4 @@
+## CODE ATTRIBUTION 
 #References generated from W3Schools httpswww.w3schools.comcscs_user_input.php
 
 generated from WebGentle httpswww.youtube.comwatchv=vWN4Zmkd4hM
@@ -16,7 +17,7 @@ switch statement in java: Microsoft. (n.d.). switch statement (Java reference). 
 
 Object-oriented programming (OOP) concepts: Wikipedia contributors. (2023, April 22). Object-oriented programming. In Wikipedia, The Free Encyclopedia. Retrieved April 28, 2023, from https://en.wikipedia.org/wiki/Object-oriented_programming
 
-How the programs works
+## How the programs works
 
 This is a Java Swing class that represents the login screen of a Kanban board application. The user can enter their username and password and then click the "LOGIN" button to log in to the application. If the user doesn't have an account, they can click the "Don't Have an Account? Register here." button to be redirected to the registration screen.
 
